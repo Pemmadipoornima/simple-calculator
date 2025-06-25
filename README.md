@@ -1,1 +1,1 @@
-# simple-calculator
+# simple-calculator This is a simple calculator created using HTML, CSS, and JavaScript. It allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division. The user inputs two numbers and clicks a button to get the result. JavaScript handles the calculations and displays the result on the webpage.
